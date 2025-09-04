@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>Arabic</string>
+		<string>en</string>
+		<string>Azerbaijani</string>
+		<string>de</string>
+		<string>fr</string>
+	</array>
+	<key>FacebookAppID</key>
+	<string>666043309422894</string>
+	<key>FacebookDisplayName</key>
+	<string>Movie TMDB</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>whatsapp</string>
+		<string>reddit</string>
+		<string>instagram</string>
+		<string>twitter</string>
+		<string>fb</string>
+		<string>youtube</string>
+	</array>
+	<key>LSApplicationQueriesSchemes1</key>
+	<array>
+		<string>666043309422894</string>
+		<string>fb-messenger-share-api</string>
+		<string>fbshareextension</string>
+		<string>fbauth2</string>
+		<string>fbapi</string>
+	</array>
+</dict>
+</plist>
