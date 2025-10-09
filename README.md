@@ -13,3 +13,5 @@
 📤 Share movies easily to Instagram, WhatsApp, Facebook & more
 
 📱 Built with SwiftUI & Combine for a smooth iOS experience
+
+💀 FaceID added this project
